@@ -7,6 +7,7 @@ This site is for all your galileosuite needs.
 #### Standard
 
 * [AIX](docs/agents/standard/aix.md)
+
 #### Custom
 
 * [Brocade](docs/agents/custom/brocade.md)
