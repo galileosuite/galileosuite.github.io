@@ -4,11 +4,12 @@ This site is for all your galileosuite needs.
 
 ### Agents
 
-* [AIX](docs/agents/standard/aix.md)
 #### Standard
 
+* [AIX](docs/agents/standard/aix.md)
 #### Custom
 
+* [Brocade](docs/agents/custom/brocade.md)
 
 ### Notes
 
