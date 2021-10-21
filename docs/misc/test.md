@@ -31,6 +31,6 @@ How can the user figure out what's not working?
 
 > It's too late to get some shit.
 
-[x] this is atee
-[ ] boi
+- [x] this is atee
+- [ ] boi
 
