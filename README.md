@@ -1,9 +1,10 @@
-Galileo Suite
+# Galileo Support and Community
 
-# Welcome 
+Welcome to the Galileo Suite community resource center.
 
-This site is for all your galileosuite needs.
+You can find information on the latest Galileo releases, support and trends.
 
+# Support
 ## Agents
 
 ### Standard
@@ -14,6 +15,10 @@ This site is for all your galileosuite needs.
 
 * [Brocade](docs/agents/custom/brocade.md)
 
-## Notes
+# Suite
+
+* Galileo Performance Explorer
+* Galileo Report Studio
+* Galileo Active Monitoring 
 
 See here for [notes](docs/misc/notes.md)

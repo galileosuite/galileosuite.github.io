@@ -1,8 +1,27 @@
+# AIX Collection Agent
 
+The AIX agent can be installed by doing stuff.
 
-## AIX Collection Agent
+# Known Issues
 
-![image](https://user-images.githubusercontent.com/7735719/138335721-4149c8ef-e2d2-47ab-a6c7-4effc08bdcc6.png)
+There are no known issues.
 
-The aix agent does stuff.
+# Security 
 
+This runs locally and outbound transmission is controled by the [comm agent](/docs/agents/standard/comm.md)
+
+# Prerequisites
+
+What are the prereqs for the switch and agent sysetms.
+
+# Installation
+
+Describe the installation.
+
+# Configuration
+
+How to configure the agent.
+
+# Diagnostics
+
+How can the user figure out what's not working?
