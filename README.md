@@ -10,10 +10,12 @@ You can find information on the latest Galileo releases, support and trends.
 ### Standard
 
 * [AIX](docs/agents/standard/aix.md)
+* [Linux](docs/agents/standard/linux.md)
 
 ### Custom
 
 * [Brocade](docs/agents/custom/brocade.md)
+* [Galileo Agent](docs/agents/custom/gpe.md)
 
 # Suite
 
